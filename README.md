@@ -1,6 +1,6 @@
-## Ссылкка на [github-pages]()
+## Ссылкка на [github-pages](https://bualeksandr.github.io/event_handling/)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/n7179ij6nk0awhlh?svg=true)](https://ci.appveyor.com/project/BuAleksandr/event-handling)
 
 ---
 
