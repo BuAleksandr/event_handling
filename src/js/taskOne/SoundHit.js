@@ -7,5 +7,3 @@ export default class SoundHit {
     myAudio.play();
   }
 }
-
-module.exports = SoundHit;
