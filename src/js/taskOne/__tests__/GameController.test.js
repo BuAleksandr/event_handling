@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 import GamePlay from '../GamePlay';
 import GameController from '../GameController';
-import {SoundHit} from '../SoundHit';
+import SoundHit from '../SoundHit';
 
 jest.mock('../GamePlay');
 jest.mock('../SoundHit');
